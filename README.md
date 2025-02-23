@@ -6,7 +6,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=yessinebenhamroun&label=Profile%20views&color=b40e1e&style=flat" alt="yessinebenhamroun" /> </p>
 
-- 🔭 I’m currently working on an *Integrated Project Management Project* using **ReactJS** and **NodeJS**
+- 🔭 I’m currently working on an *Integrated Project Management Application* using **ReactJS** and **NodeJS**
   
 - 💬 Ask me **anything 🤓**
 
