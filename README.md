@@ -21,15 +21,6 @@
 <a href="https://www.instagram.com/yessine_hamroun/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yessine-hamroun" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  </br>
-  
-  <a href="https://git.io/streak-stats">
-    <img src=https://streak-stats.demolab.com/?user=Yessine-BenHamroun&&theme=tokyonight&&hide_border=true&card_width=495>
-  </a>
-  </br>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -64,7 +55,3 @@
 <a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/sonarqube.webp" alt="sonarqube" width="40" height="40"/> </a>
 <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="40" height="40"/> </a>
 </p>
-
-## 📊 GitHub Stats
-![Yessine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yessine-BenHamroun&show_icons=true&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yessine-benhamroun&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
